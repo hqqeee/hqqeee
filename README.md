@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Ruslan
 
 ### Backend/Data Engineer from Ukraine 🇺🇦  
-Bringing over 1 years of hands-on experience in software development with a focus on innovation and efficiency.
 
 ---
 
